@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Hospital Admissions</string>
+    <string name="hospital">Hospital</string>
+    <string name="level">Level</string>
+    <string name="value">Value</string>
+    <string name="year">Year</string>
+</resources>
